@@ -12,3 +12,7 @@ Exemplos:
 https://floresdamah.com.br/categoria-produto/buques/page/2
 
 https://www.elaineflorescestas.com.br/elaine_flores
+
+Link para o figma:
+
+https://www.figma.com/design/WqAv60H1IDwTVPBq5fQKCn/Floricultura?node-id=0-1&node-type=canvas&t=2URmru7NC1P7Kyoq-0
