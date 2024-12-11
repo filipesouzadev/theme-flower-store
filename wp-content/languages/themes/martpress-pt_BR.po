@@ -1,0 +1,74 @@
+# Translation of Themes - MartPress in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - MartPress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-01 15:24:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - MartPress\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "MartPress is a modern and unique WooCommerce WordPress Theme, The theme is suitable for any shop like cloth, electronics, furniture, accessories, flowers, or any other, Its beautiful and clear style has been designed to showcase your products and increase your sales. Checkout the Pro Demo https://vfthemes.com/theme-demo/martpress-pro/"
+msgstr "MartPress é um tema WooCommerce WordPress moderno e exclusivo. O tema é adequado para qualquer loja, como roupas, eletrônicos, móveis, acessórios, flores ou qualquer outra. Seu estilo bonito e claro foi projetado para mostrar seus produtos e aumentar suas vendas. Confira a Demonstração Pro https://vfthemes.com/theme-demo/martpress-pro/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "MartPress"
+msgstr "MartPress"
+
+#: inc/customizer/customizer-upsale/class-customize.php:77
+msgid "Pro Demo"
+msgstr "Demo da versão Pro"
+
+#: inc/customizer/customizer-upsale/class-customize.php:75
+msgid "Upgrade to Pro"
+msgstr "Atualize para o Pro"
+
+#: inc/customizer/customizer-upsale/class-customize.php:74
+msgid "MartPress Pro"
+msgstr "MartPress Pro"
+
+#: template-parts/sections/section-header.php:86
+msgid "Search Products"
+msgstr "Procurar produtos"
+
+#: template-parts/sections/section-header.php:62
+msgid "Header Above Collapse"
+msgstr "Retrair cabeçalho de cima"
+
+#: template-parts/sections/section-header.php:56
+msgid "Header Close Menu"
+msgstr "Cabeçalho Fechar Menu"
+
+#: template-parts/sections/section-header.php:47
+msgid "Menu Collaped"
+msgstr "Recolher Menu"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://vfthemes.com/themes/martpress-free/"
+msgstr "https://vfthemes.com/themes/martpress-free/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://vfthemes.com/"
+msgstr "https://vfthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "vfthemes"
+msgstr "vfthemes"
